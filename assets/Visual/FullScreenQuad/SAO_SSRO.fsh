@@ -172,7 +172,7 @@ float sampleAO(in vec3 cameraSpacePos,
 }
 
 float sao(vec3 cameraSpacePos, vec3 cameraSpaceN){
-	//float randomPatternRotationAngle = randV2(vUV.xy) * PIx2;
+	//float randomPatternRotationAngle = rand(vUV.xy) * PIx2;
 	//if need more random use
 	float randomPatternRotationAngle = rand(vUV.xyxy) * PIx2;
 	

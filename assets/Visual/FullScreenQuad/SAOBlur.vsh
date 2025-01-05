@@ -1,8 +1,6 @@
-#version 300 es  
- 
-precision mediump float;
+#version 300 es   
+
 uniform vec4 offset;
-precision highp float;
 
 in vec2 a_position;
 out vec2 uv;

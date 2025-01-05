@@ -6,7 +6,7 @@ import android.opengl.GLES30;
 import android.util.*;
 
 public class Scene {
-	float[] mBackColor = {1.0f, 0.0f, 0.0f, 0.0f};
+	float[] mBackColor = {0.0f, 0.0f, 0.0f, 0.0f};
 	ArrayList<Geometry> mGeometry = new ArrayList<Geometry>();
 	ArrayList<VisualObject> mVisualObjects = new ArrayList<VisualObject>();
 	SkyBox mSkyBox;
@@ -63,11 +63,11 @@ public class Scene {
 	}
 	
 	void EmissiveOnlyDraw(){
-//		sphere with all range roughness
+/*		sphere with all range roughness
 		for (Geometry geometry : mGeometry){
 			geometry.draw(mCamera);
 		}
-
+*/
 		mSkyBox.draw(mCamera);
 	}
 

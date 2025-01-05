@@ -4,7 +4,7 @@ highp float rand(highp vec4 seed){
     return fract(sin(dot_product) * 43758.5453);
 }
 
-highp float randV2(highp vec2 seed){ 
+highp float rand(highp vec2 seed){ 
 	highp float dot_product = dot( seed, vec2( 12.9898, 78.233) );
     return fract(sin(dot_product) * 43758.5453);
 }
