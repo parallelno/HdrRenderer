@@ -58,7 +58,8 @@ class Shader{
 				final int[] logLength = new int[1];
 				GLES30.glGetShaderiv(shaderHandle, GLES30.GL_INFO_LOG_LENGTH, logLength, 0);
 				if ( logLength[0] > 0){
-					Log.w ( "shader error", GLES30.glGetShaderInfoLog(shaderHandle));
+					Log.e ( "shader error", GLES30.glGetShaderInfoLog(shaderHandle));
+					Log.w ( "shader: ", data);
 				}
 				GLES30.glDeleteShader(shaderHandle);
 				shaderHandle = 0;

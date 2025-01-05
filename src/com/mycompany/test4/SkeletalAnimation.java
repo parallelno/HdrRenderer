@@ -187,7 +187,7 @@ public class SkeletalAnimation {
 	 xyzw[3] = cosRoll[0] * cosPitch[0] * cosYaw[0] + sinRoll[0] * sinPitch[0] * sinYaw[0];
 	}
 	
-	calculate (){
+	void calculate (){
 		
 	}
 

@@ -73,6 +73,10 @@ public class VisualObject{
 			float mSpeed = 1.0f;
 			float mStart = 0.0f; // normalized time
 			SkeletalAnimation mSkeletalAnimation;
+			public void calculate() {
+				// TODO Auto-generated method stub
+				
+			}
 		}
 		
 		ArrayList<AnimationClip> mAnimationClips = new ArrayList<AnimationClip>();

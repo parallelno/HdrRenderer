@@ -1,5 +1,5 @@
 #version 300 es 
-precision mediump float;
+precision highp float;
 
 #include "Visual/CommonShaders/PackUnpack.fsh"
 #include "Visual/CommonShaders/Constants.fsh"
@@ -184,7 +184,7 @@ void main(void) {
 	#define esmFilterRadius5 (1.27) // in pixels
 	#define esmFilterRadius6 (1.5) // in pixels
 	vec2 coord;
-	highp float rndRotationAngle = rand(vTexCoord0) * PIx2;
+	highp float rndRotationAngle = randV2(vTexCoord0) * PIx2;
 	
 	coord = rotate2D(esmFilterRadius1, rndRotationAngle + (50.0/360.0 * PIx2));
 	shadow += shadowLookup( coord, esmTexCoord, pixelSize );

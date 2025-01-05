@@ -139,6 +139,7 @@ public class FullScreenQuad {
 				GLES30.glGetShaderiv(mFragmentShaderHandle, GLES30.GL_INFO_LOG_LENGTH, logLength, 0);
 				if ( logLength[0] > 0){
 					Log.w ( "shader error", GLES30.glGetShaderInfoLog(mFragmentShaderHandle));
+					Log.w ( "shader: ", mFragmentShaderText);
 				}
 				GLES30.glDeleteShader(mFragmentShaderHandle);
 				mFragmentShaderHandle = 0;
@@ -177,7 +178,7 @@ public class FullScreenQuad {
 		}
 		if (mProgramHandle == 0){
 			
-			throw new RuntimeException("Error creating program. path: " + utils.getPath(mVertexShaderFile));
+			throw new RuntimeException("Error creating program. path: " + mVertexShaderFile + " " + mFragmentShaderFile);
 		}
 		mPositionHandle = GLES30.glGetAttribLocation(mProgramHandle, "a_position");
 		

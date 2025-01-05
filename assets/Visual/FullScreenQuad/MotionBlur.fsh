@@ -48,7 +48,7 @@ void main(){
 	vec3 color2;
 	
 	// Random value in [0.0, 1.0]
-    highp float fRandom = rand(sumColor.rg );
+    highp float fRandom = randV2(sumColor.rg );
     
 	vec2 uvOffset = ( v + v * fRandom )  * offset.xy * halfExposure * 0.5;
 	vec2 uv1 = uv;
