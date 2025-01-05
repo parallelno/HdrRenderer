@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<client.Scene3D.Geometry>
+		<Header>
+			<guid>20f029ed-386b-4726-94f6-dd5ead9f9d69</guid>
+		</Header>
+		<aabb>
+			<center x="-0.1569835" y="0" z="0" />
+			<extents x="0.1649265" y="0.053421" z="0.047442" />
+		</aabb>
+		<binaryFile href="Bottle01-Geometry.bin" crc="0xBAF0D4EC" sha1="f698a30ce679a2a4a42613179d60997c04479af5" />
+		<collapseMaterialsMode>COLLAPSE_MESHES</collapseMaterialsMode>
+		<distanceMod>
+			<angularSizeFactor>
+				<Item>-1</Item>
+				<Item>-1</Item>
+				<Item>-1</Item>
+				<Item>-1</Item>
+				<Item>-1</Item>
+				<Item>-1</Item>
+				<Item>-1</Item>
+				<Item>-1</Item>
+			</angularSizeFactor>
+		</distanceMod>
+		<indexBuffer>
+			<localID>1</localID>
+			<size>1512</size>
+		</indexBuffer>
+		<lods>
+			<Item>
+				<subsets>
+					<Item>
+						<bbox>
+							<center x="-0.159604" y="0" z="0" />
+							<extents x="0.162306" y="0.053421" z="0.047442" />
+						</bbox>
+						<exceedsUnitUV>false</exceedsUnitUV>
+						<indexBufferBegin>0</indexBufferBegin>
+						<indexBufferEnd>420</indexBufferEnd>
+						<infoPolyCount>140</infoPolyCount>
+						<infoVertexCount>89</infoVertexCount>
+						<material href="/Visual/FX/TexturesGE/WhiteSquare-Material.xdb" />
+						<meshName>From_lambert2SG_LOD0</meshName>
+						<mipDistance>1938.285</mipDistance>
+						<morphCount>1</morphCount>
+						<shadingGroupName>lambert2SG</shadingGroupName>
+						<vertexBufferOffset>0</vertexBufferOffset>
+						<vertexDeclarationID>0</vertexDeclarationID>
+					</Item>
+				</subsets>
+			</Item>
+			<Item>
+				<subsets>
+					<Item>
+						<bbox>
+							<center x="-0.160333" y="0" z="0" />
+							<extents x="0.161577" y="0.053421" z="0.047442" />
+						</bbox>
+						<exceedsUnitUV>false</exceedsUnitUV>
+						<indexBufferBegin>420</indexBufferBegin>
+						<indexBufferEnd>624</indexBufferEnd>
+						<infoPolyCount>68</infoPolyCount>
+						<infoVertexCount>55</infoVertexCount>
+						<material href="/Visual/FX/TexturesGE/WhiteSquare-Material.xdb" />
+						<meshName>From_lambert2SG_LOD1</meshName>
+						<mipDistance>1938.285</mipDistance>
+						<morphCount>1</morphCount>
+						<shadingGroupName>lambert2SG</shadingGroupName>
+						<vertexBufferOffset>2136</vertexBufferOffset>
+						<vertexDeclarationID>0</vertexDeclarationID>
+					</Item>
+				</subsets>
+			</Item>
+			<Item>
+				<subsets>
+					<Item>
+						<bbox>
+							<center x="-0.1569835" y="0" z="0" />
+							<extents x="0.1649265" y="0.052903" z="0.047442" />
+						</bbox>
+						<exceedsUnitUV>false</exceedsUnitUV>
+						<indexBufferBegin>624</indexBufferBegin>
+						<indexBufferEnd>714</indexBufferEnd>
+						<infoPolyCount>30</infoPolyCount>
+						<infoVertexCount>29</infoVertexCount>
+						<material href="/Visual/FX/TexturesGE/WhiteSquare-Material.xdb" />
+						<meshName>From_lambert2SG_LOD2</meshName>
+						<mipDistance>3696.026</mipDistance>
+						<morphCount>1</morphCount>
+						<shadingGroupName>lambert2SG</shadingGroupName>
+						<vertexBufferOffset>3456</vertexBufferOffset>
+						<vertexDeclarationID>0</vertexDeclarationID>
+					</Item>
+				</subsets>
+			</Item>
+			<Item>
+				<subsets>
+					<Item>
+						<bbox>
+							<center x="-0.1603175" y="0.004186137" z="0.007588044" />
+							<extents x="0.1615925" y="0.04699519" z="0.03867014" />
+						</bbox>
+						<exceedsUnitUV>false</exceedsUnitUV>
+						<indexBufferBegin>714</indexBufferBegin>
+						<indexBufferEnd>756</indexBufferEnd>
+						<infoPolyCount>14</infoPolyCount>
+						<infoVertexCount>14</infoVertexCount>
+						<material href="/Visual/FX/TexturesGE/WhiteSquare-Material.xdb" />
+						<meshName>From_lambert2SG_LOD3</meshName>
+						<mipDistance>1677.845</mipDistance>
+						<morphCount>1</morphCount>
+						<shadingGroupName>lambert2SG</shadingGroupName>
+						<vertexBufferOffset>4152</vertexBufferOffset>
+						<vertexDeclarationID>0</vertexDeclarationID>
+					</Item>
+				</subsets>
+			</Item>
+		</lods>
+		<lodSettings>
+			<cutoffDistance>
+				<customDistance>12.09405</customDistance>
+				<defaultDistance>46.06039</defaultDistance>
+				<prevCustomDistance>12.09405</prevCustomDistance>
+				<prevDefaultDistance>31.54455</prevDefaultDistance>
+			</cutoffDistance>
+			<lodDistances>
+				<Item>
+					<customDistance>2.267635</customDistance>
+					<defaultDistance>4.559626</defaultDistance>
+					<prevCustomDistance>2.267635</prevCustomDistance>
+					<prevDefaultDistance>3.465375</prevDefaultDistance>
+				</Item>
+				<Item>
+					<customDistance>4.53527</customDistance>
+					<defaultDistance>4.994669</defaultDistance>
+					<prevCustomDistance>4.53527</prevCustomDistance>
+					<prevDefaultDistance>5.561103</prevDefaultDistance>
+				</Item>
+				<Item>
+					<customDistance>-1</customDistance>
+					<defaultDistance>10.50878</defaultDistance>
+					<prevCustomDistance>-1</prevCustomDistance>
+					<prevDefaultDistance>6.859383</prevDefaultDistance>
+				</Item>
+				<Item>
+					<customDistance>-1</customDistance>
+					<defaultDistance>21.55422</defaultDistance>
+					<prevCustomDistance>-1</prevCustomDistance>
+					<prevDefaultDistance>13.57337</prevDefaultDistance>
+				</Item>
+			</lodDistances>
+		</lodSettings>
+		<sourceFile href="/sources/Visual/FX/Parts/Bottle01.mb" crc="0xC10BE323" sha1="94d1095960e5f4af9448f2d4ec409a4798aad76b" />
+		<vertexBuffer>
+			<localID>0</localID>
+			<size>4488</size>
+		</vertexBuffer>
+		<vertexDeclarations>
+			<Item>
+				<position>
+					<offset>0</offset>
+					<type>FLOAT3</type>
+				</position>
+				<quaternion>
+					<offset>12</offset>
+					<type>COLOR4</type>
+				</quaternion>
+				<stride>24</stride>
+				<texcoord0>
+					<offset>16</offset>
+					<type>FLOAT2</type>
+				</texcoord0>
+			</Item>
+		</vertexDeclarations>
+	</client.Scene3D.Geometry>
+</Body>

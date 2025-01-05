@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<client.Scene3D.Geometry>
+		<Header>
+			<guid>36b049b7-130b-4142-a7e0-356637d9913c</guid>
+		</Header>
+		<aabb>
+			<center x="0" y="0" z="0" />
+			<extents x="30" y="30" z="30" />
+		</aabb>
+		<binaryFile href="Base-Geometry.bin" crc="0x45B7F2A0" sha1="f2e33a3b6d32c5c109fa31fc0f1e8c2235f1d734" />
+		<indexBuffer>
+			<localID>1</localID>
+			<size>9120</size>
+		</indexBuffer>
+		<lods>
+			<Item>
+				<subsets>
+					<Item>
+						<bbox>
+							<center x="0" y="0" z="0" />
+							<extents x="30" y="30" z="30" />
+						</bbox>
+						<exceedsUnitUV>false</exceedsUnitUV>
+						<indexBufferBegin>0</indexBufferBegin>
+						<indexBufferEnd>4560</indexBufferEnd>
+						<infoPolyCount>1520</infoPolyCount>
+						<infoVertexCount>859</infoVertexCount>
+						<material href="Base-Material.xdb" />
+						<meshName>From_/Tests/FX/TexturesGE/WhiteSquare_LOD0</meshName>
+						<mipDistance>290750.2</mipDistance>
+						<morphCount>1</morphCount>
+						<shadingGroupName>/Tests/FX/TexturesGE/WhiteSquare</shadingGroupName>
+						<vertexBufferOffset>0</vertexBufferOffset>
+						<vertexDeclarationID>0</vertexDeclarationID>
+					</Item>
+				</subsets>
+			</Item>
+		</lods>
+		<lodSettings>
+			<cutoffDistance>
+				<defaultDistance>16.22637</defaultDistance>
+			</cutoffDistance>
+			<lodDistances>
+				<Item>
+					<defaultDistance>458.5486</defaultDistance>
+				</Item>
+			</lodDistances>
+		</lodSettings>
+		<sourceFile href="/sources/Tests/FX/SkySphere.mb" crc="0x3E16A8C" sha1="ce1ea5d552c745ff69fe57d5ac5aab66ecac4edb" />
+		<vertexBuffer>
+			<localID>0</localID>
+			<size>20616</size>
+		</vertexBuffer>
+		<vertexDeclarations>
+			<Item>
+				<position>
+					<offset>0</offset>
+					<type>FLOAT3</type>
+				</position>
+				<quaternion>
+					<offset>12</offset>
+					<type>COLOR4</type>
+				</quaternion>
+				<stride>24</stride>
+				<texcoord0>
+					<offset>16</offset>
+					<type>FLOAT2</type>
+				</texcoord0>
+			</Item>
+		</vertexDeclarations>
+	</client.Scene3D.Geometry>
+</Body>

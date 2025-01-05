@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<client.Scene3D.SkeletalAnimation>
+		<Header>
+			<guid>511e79dd-ecbe-44fb-b65d-28a2dc664bb5</guid>
+		</Header>
+		<aabb>
+			<center x="-0.09958181" y="0.006209418" z="0.9999956" />
+			<extents x="-0.7077372" y="0.256157" z="1.000004" />
+		</aabb>
+		<binaryFile href="Run01-SkeletalAnimation.bin" crc="0x86D265FA" sha1="cb4bc4dbf47cde22dde875ec36c342ba8323a8ba" />
+		<editorGroups>
+			<Item type="client.ClientEditorEngine.AnimEventGroupMeta">
+				<description>Events</description>
+				<eventTracks>
+					<Item>6b43ca32-a70a-4807-8abc-4e138c7cae0d</Item>
+				</eventTracks>
+				<groupId>0</groupId>
+				<type>SimpleGroup</type>
+			</Item>
+			<Item type="client.ClientEditorEngine.SoundEventGroupMeta">
+				<color>0xFF000000</color>
+				<description>Footstep_Player_Run_Right</description>
+				<groupId>1</groupId>
+				<sound>
+					<name>/Footstep/Medium/Heels/Run/Right</name>
+					<project href="/SFX/Foley/Foley-FMODProject.xdb" />
+				</sound>
+				<type>SoundOneShot</type>
+			</Item>
+			<Item type="client.ClientEditorEngine.SoundEventGroupMeta">
+				<color>0xFF000000</color>
+				<description>Footstep_Player_Run_Left</description>
+				<groupId>2</groupId>
+				<sound>
+					<name>/Footstep/Medium/Heels/Run/Left</name>
+					<project href="/SFX/Foley/Foley-FMODProject.xdb" />
+				</sound>
+				<type>SoundOneShot</type>
+			</Item>
+		</editorGroups>
+		<endFrame>21</endFrame>
+		<eventTracks>
+			<Item type="client.Scene3D.SkeletalAnimation$AnimationEventTrack">
+				<animationKeys />
+				<name>Run</name>
+				<uuid>6b43ca32-a70a-4807-8abc-4e138c7cae0d</uuid>
+			</Item>
+			<Item type="client.Scene3D.SkeletalAnimation$FlowScriptEventTrack">
+				<animationKeys>
+					<Item type="client.Scene3D.AnimationKey">
+						<time>0.3199375</time>
+					</Item>
+				</animationKeys>
+				<embeddedScript href="#eb4e5926-8da3-4cba-a05d-57d536175fc6" />
+				<enabled>true</enabled>
+				<name>eb4e5926-8da3-4cba-a05d-57d536175fc6</name>
+			</Item>
+			<Item type="client.Scene3D.SkeletalAnimation$FlowScriptEventTrack">
+				<animationKeys>
+					<Item type="client.Scene3D.AnimationKey">
+						<time>0.6451713</time>
+					</Item>
+				</animationKeys>
+				<embeddedScript href="#73adcb02-5c8b-4bb8-b7d3-b746115f586c" />
+				<enabled>true</enabled>
+				<name>73adcb02-5c8b-4bb8-b7d3-b746115f586c</name>
+			</Item>
+		</eventTracks>
+		<nodeNames>
+			<Item>Global</Item>
+			<Item>Root_M</Item>
+			<Item>Hip_R</Item>
+			<Item>HipPart1_R</Item>
+			<Item>Knee_R</Item>
+			<Item>KneePart1_R</Item>
+			<Item>KneeEnd_R</Item>
+			<Item>Ankle_R</Item>
+			<Item>MiddleToe1_R</Item>
+			<Item>Slot_Hip_R</Item>
+			<Item>Hip_L</Item>
+			<Item>HipPart1_L</Item>
+			<Item>Knee_L</Item>
+			<Item>KneePart1_L</Item>
+			<Item>Ankle_L</Item>
+			<Item>MiddleToe1_L</Item>
+			<Item>KneeEnd_L</Item>
+			<Item>Slot_Hip_L</Item>
+			<Item>BackA_M</Item>
+			<Item>BackB_M</Item>
+			<Item>Chest_M</Item>
+			<Item>Scapula_R</Item>
+			<Item>Shoulder_R</Item>
+			<Item>ShoulderPart1_R</Item>
+			<Item>Elbow_R</Item>
+			<Item>ElbowPart1_R</Item>
+			<Item>ElbowEnd_R</Item>
+			<Item>Wrist_R</Item>
+			<Item>Slot_Hand_R</Item>
+			<Item>Slot_Elbow_R</Item>
+			<Item>Slot_Shoulder_R</Item>
+			<Item>ShoulderMuscle_R</Item>
+			<Item>Neck_M</Item>
+			<Item>Head_M</Item>
+			<Item>Scapula_L</Item>
+			<Item>Shoulder_L</Item>
+			<Item>ShoulderPart1_L</Item>
+			<Item>Elbow_L</Item>
+			<Item>ElbowPart1_L</Item>
+			<Item>ElbowEnd_L</Item>
+			<Item>Wrist_L</Item>
+			<Item>Slot_Hand_L</Item>
+			<Item>Slot_Elbow_L</Item>
+			<Item>Slot_Shoulder_L</Item>
+			<Item>ShoulderMuscle_L</Item>
+			<Item>Breast_R</Item>
+			<Item>BreastEnd_R</Item>
+			<Item>Breast_L</Item>
+			<Item>BreastEnd_L</Item>
+			<Item>Slot_01_Chest_M</Item>
+			<Item>Slot_02_Chest_M</Item>
+			<Item>Slot_Ground</Item>
+			<Item>Slot_01_Root_M</Item>
+			<Item>Slot_02_Root_M</Item>
+			<Item>Trajectory</Item>
+			<Item>GUI</Item>
+			<Item>AttackAngle_R</Item>
+			<Item>AttackAngle_L</Item>
+			<Item>CamAnchor</Item>
+		</nodeNames>
+		<sourceFile href="/sources/Visual/Characters/Female/Animations/General/Movement/Run01.mb" crc="0xA72D95D7" sha1="32572284edb1c558e30e92e2c69a1451af6a8710" />
+		<startFrame>0</startFrame>
+		<trajectoryBone>54</trajectoryBone>
+	</client.Scene3D.SkeletalAnimation>
+	<client.VisualFlowRuntime.FlowScript id="73adcb02-5c8b-4bb8-b7d3-b746115f586c">
+		<Header>
+			<guid>15ada12c-3597-4a93-8427-f878fa238362</guid>
+		</Header>
+		<nodes>
+			<Item type="client.VisualScripts.SoundPlayer3D">
+				<position>
+					<targetUUID>c51e7fec-1608-446b-88be-686a205132bd</targetUUID>
+					<targetVariable>position</targetVariable>
+				</position>
+				<sound>
+					<name>/Footstep/Medium/Heels/Run/Left</name>
+					<project href="/SFX/Foley/Foley-FMODProject.xdb" />
+				</sound>
+				<uuid>14547012-58ec-41b5-8867-7cf88a9cf602</uuid>
+			</Item>
+			<Item type="client.VisualScripts.BunchGet">
+				<uuid>73dd24b2-bb91-453d-bb75-1f015e762bd2</uuid>
+				<varUUID>
+					<defaultValue>owner</defaultValue>
+					<useDefault>true</useDefault>
+				</varUUID>
+			</Item>
+			<Item type="client.VisualScripts.VisualObjectFromBunch" editorPositionX="0" editorPositionY="0">
+				<bunch>
+					<targetUUID>73dd24b2-bb91-453d-bb75-1f015e762bd2</targetUUID>
+					<targetVariable>bunch</targetVariable>
+				</bunch>
+				<uuid>71b5b744-0692-4c34-b69c-b58c00a87156</uuid>
+			</Item>
+			<Item type="client.VisualFlowRuntime.GetTransform" editorPositionX="160" editorPositionY="0">
+				<uuid>c51e7fec-1608-446b-88be-686a205132bd</uuid>
+				<visualObject>
+					<targetUUID>71b5b744-0692-4c34-b69c-b58c00a87156</targetUUID>
+					<targetVariable>visualObject</targetVariable>
+					<targetVirtualUUID />
+					<useDefault>false</useDefault>
+				</visualObject>
+			</Item>
+		</nodes>
+		<roots>
+			<Item type="client.VisualScripts.EventAnimation">
+				<editorMeta>
+					<groupId>2</groupId>
+					<name />
+				</editorMeta>
+				<onStart>
+					<Item>
+						<delayTime>0</delayTime>
+						<targetCommand>start</targetCommand>
+						<targetUUID>14547012-58ec-41b5-8867-7cf88a9cf602</targetUUID>
+					</Item>
+				</onStart>
+				<uuid>5200e2b4-b671-4835-a9c7-4432518250de</uuid>
+			</Item>
+		</roots>
+	</client.VisualFlowRuntime.FlowScript>
+	<client.VisualFlowRuntime.FlowScript id="eb4e5926-8da3-4cba-a05d-57d536175fc6">
+		<Header>
+			<guid>116316bc-8b16-4853-a39c-6dd52e3a1b43</guid>
+		</Header>
+		<nodes>
+			<Item type="client.VisualScripts.SoundPlayer3D">
+				<position>
+					<targetUUID>72415ee6-d4f2-422a-acb2-6839a7211e38</targetUUID>
+					<targetVariable>position</targetVariable>
+				</position>
+				<sound>
+					<name>/Footstep/Medium/Heels/Run/Right</name>
+					<project href="/SFX/Foley/Foley-FMODProject.xdb" />
+				</sound>
+				<uuid>df5dbbad-19b1-4779-9d6c-82725994dd87</uuid>
+			</Item>
+			<Item type="client.VisualScripts.BunchGet">
+				<uuid>61acb3da-a726-406d-842e-73ab4f077849</uuid>
+				<varUUID>
+					<defaultValue>owner</defaultValue>
+					<useDefault>true</useDefault>
+				</varUUID>
+			</Item>
+			<Item type="client.VisualScripts.VisualObjectFromBunch" editorPositionX="0" editorPositionY="0">
+				<bunch>
+					<targetUUID>61acb3da-a726-406d-842e-73ab4f077849</targetUUID>
+					<targetVariable>bunch</targetVariable>
+				</bunch>
+				<uuid>94b394ea-703f-4ed5-bb0d-a7a1a0091b82</uuid>
+			</Item>
+			<Item type="client.VisualFlowRuntime.GetTransform" editorPositionX="160" editorPositionY="0">
+				<uuid>72415ee6-d4f2-422a-acb2-6839a7211e38</uuid>
+				<visualObject>
+					<targetUUID>94b394ea-703f-4ed5-bb0d-a7a1a0091b82</targetUUID>
+					<targetVariable>visualObject</targetVariable>
+					<targetVirtualUUID />
+					<useDefault>false</useDefault>
+				</visualObject>
+			</Item>
+		</nodes>
+		<roots>
+			<Item type="client.VisualScripts.EventAnimation">
+				<editorMeta>
+					<groupId>1</groupId>
+					<name />
+				</editorMeta>
+				<onStart>
+					<Item>
+						<delayTime>0</delayTime>
+						<targetCommand>start</targetCommand>
+						<targetUUID>df5dbbad-19b1-4779-9d6c-82725994dd87</targetUUID>
+					</Item>
+				</onStart>
+				<uuid>a377f32f-9a29-4c5c-bfeb-63e5fcd127b4</uuid>
+			</Item>
+		</roots>
+	</client.VisualFlowRuntime.FlowScript>
+</Body>

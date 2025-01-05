@@ -1,0 +1,4 @@
+ddx() and ddy() return the slope of any variable
+Viewspace vertex normal reconstruction:
+normalize(ddx(viewpos) x ddy(viewpos))
+

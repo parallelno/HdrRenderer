@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<mapLoader.VisualObject>
+		<Header>
+			<guid>403f9af9-814a-47ad-b2d9-1d03a712bd05</guid>
+		</Header>
+		<components>
+			<Item type="mapLoader.components.MeshComponent">
+				<geometry href="Base-Geometry.xdb" />
+				<uuid>MESH</uuid>
+			</Item>
+		</components>
+	</mapLoader.VisualObject>
+</Body>

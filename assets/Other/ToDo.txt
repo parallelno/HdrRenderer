@@ -1,0 +1,31 @@
+1/ change fract to floor (savings 1 alu instruction)
+
+5/ add controls on screen
+6/ remove title border on top screen
+8/ const to #define () accurate in include files. not double declaration.
+
+10/ Need create my own ssao and compare result. currently only optimization sao
+optimized / old:
+Device: Qualcomm Adreno (TM) 320
+Shader Type .....................      Vertex Original   Fragment Original     Vertex Modified   Fragment Modified
+Total Instructions ..............                   11                 467                  15                 735
+
+Full Precision ALU Instructions .                   10                 372                  14                 661
+Half Precision ALU Instructions .                    0                   0                   0                   0
+Interpolation Instructions ......                    0                   0                   0                   0
+Texture Fetches .................                    0                  13                   0                  15
+Memory Load Instructions ........                    0                   0                   0                   0
+Memory Store Instructions .......                    0                   0                   0                   0
+Flow Control Instructions .......                    1                   1                   1                   1
+No-Op Instructions ..............                    0                  81                   0                  58
+Synchronization Instructions ....                    0                   0                   0                   0
+Short Latency Sync Instructions .                    1                  12                   2                  25
+Long Latency Sync Instructions ..                    1                   6                   1                   6
+Number of Registers .............                    3                  13                   3                  24
+Number of Full Registers ........                    3                  13                   3                  24
+Number of Half Registers ........                    0                   0                   0                   0
+Estimated Cycle Count ...........                    0                   0                   0                   0
+
+
+11/ need half texel move with cameraSpaceZToCameraSpacePos(uvTapPos + CSZmipTexelSize_HalfTexelSize.zw,  P.z );
+12/ need fewer sample taps and emulate intermediate sampling using a linear blend.

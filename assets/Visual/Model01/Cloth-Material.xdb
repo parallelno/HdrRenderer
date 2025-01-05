@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<client.Scene3D.Material>
+		<Header>
+			<guid>9a1af278-fb7c-4dbd-a727-62d030ce4c51</guid>
+		</Header>
+		<Layers>
+			<Item>
+				<uuid>texture0</uuid>
+				<layer href="Cloth.tga" />
+				<wrap>CLAMP</wrap>
+				<sRGB>true</sRGB>
+			</Item>
+			<Item>
+				<uuid>texture1</uuid>
+				<layer href="Cloth_Normal.tga" />
+				<wrap>MIRRORED</wrap>
+				<sRGB>false</sRGB>
+			</Item>
+			<Item>
+				<uuid>texture2</uuid>
+				<layer href="Cloth_Specular.tga" />
+				<wrap>MIRRORED</wrap>
+				<sRGB>false</sRGB>
+			</Item>	
+		</Layers>
+		<Params>
+			<castShadows>true</castShadows>
+		</Params>
+		<ShaderFile href="Visual/Model01/Base.shader" />
+	</client.Scene3D.Material>
+</Body>

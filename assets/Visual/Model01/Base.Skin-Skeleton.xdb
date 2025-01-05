@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<client.Scene3D.Skeleton>
+		<Header>
+			<guid>df066f02-93d1-46e0-9634-f31abbdf2384</guid>
+		</Header>
+		<lods>
+			<Item>
+				<nodes>
+					<Item>
+						<index>0</index>
+						<name>VisualSceneNode</name>
+						<parent>-1</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>1</index>
+						<name>Global</name>
+						<parent>0</parent>
+						<position x="0.035717" y="0" z="1.08906" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>2</index>
+						<name>Trajectory</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>3</index>
+						<name>CamAnchor</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="1.5" />
+						<rotation x="0" y="0" z="-0.7071068" w="0.7071068" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>4</index>
+						<name>Camera</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>5</index>
+						<name>Cloth_Fatty_LOD2</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>6</index>
+						<name>Cloth_Fitness_LOD2</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>7</index>
+						<name>ChargenBody_Fatty</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>8</index>
+						<name>ChargenBody_Fitness</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>9</index>
+						<name>ChargenBody_Fatty_LOD1</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>10</index>
+						<name>ChargenBody_Fitness_LOD1</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>11</index>
+						<name>ChargenBody_Fatty_LOD2</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>12</index>
+						<name>ChargenBody_Fitness_LOD2</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>13</index>
+						<name>Cloth_Fatty</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>14</index>
+						<name>Cloth_Fitness</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>15</index>
+						<name>Cloth_Fatty_LOD1</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>16</index>
+						<name>Cloth_Fitness_LOD1</name>
+						<parent>0</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>17</index>
+						<name>Root_M</name>
+						<parent>1</parent>
+						<position x="-0.015251" y="0" z="-0.035524" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>18</index>
+						<name>BackA_M</name>
+						<parent>1</parent>
+						<position x="0.006928" y="0" z="0.048281" />
+						<rotation x="0" y="0.02617695" z="0" w="0.9996573" />
+						<scale x="0.9999999" y="1" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>19</index>
+						<name>Slot_Ground</name>
+						<parent>1</parent>
+						<position x="-0.035717" y="0" z="-1.08906" />
+						<rotation x="0" y="0" z="-0.7071068" w="0.7071068" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>20</index>
+						<name>Slot_01_Root_M</name>
+						<parent>1</parent>
+						<position x="0" y="-0.032338" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>21</index>
+						<name>Slot_02_Root_M</name>
+						<parent>1</parent>
+						<position x="0" y="0.032859" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>22</index>
+						<name>Hip_R</name>
+						<parent>17</parent>
+						<position x="-0.002539" y="-0.096545" z="-0.012136" />
+						<rotation x="-0.06714515" y="-0.003925778" z="7.190377e-09" w="0.9977355" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>23</index>
+						<name>Hip_L</name>
+						<parent>17</parent>
+						<position x="-0.002539" y="0.096545" z="-0.012136" />
+						<rotation x="0.06714513" y="-0.003926661" z="-4.226935e-06" w="0.9977355" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>24</index>
+						<name>Bottom_R</name>
+						<parent>17</parent>
+						<position x="-0.065255" y="-0.07555" z="-0.045956" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>25</index>
+						<name>Bottom_L</name>
+						<parent>17</parent>
+						<position x="-0.065255" y="0.07555" z="-0.045956" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>26</index>
+						<name>Phys_Skirt1_R</name>
+						<parent>17</parent>
+						<position x="-0.000225" y="-0.17138" z="0.042667" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>27</index>
+						<name>Phys_Skirt1_L</name>
+						<parent>17</parent>
+						<position x="-0.001849" y="0.16228" z="0.019639" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>28</index>
+						<name>Phys_Skirt_Back1_M</name>
+						<parent>17</parent>
+						<position x="-0.124735" y="0.037912" z="-0.048333" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>29</index>
+						<name>Phys_Skirt_BackUp1_M</name>
+						<parent>17</parent>
+						<position x="-0.133985" y="0" z="0.003203" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>30</index>
+						<name>Phys_Skirt_Forward1_M</name>
+						<parent>17</parent>
+						<position x="0.135858" y="0.033268" z="-0.020656" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>31</index>
+						<name>HipPart1_R</name>
+						<parent>22</parent>
+						<position x="0" y="0" z="-0.226414" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>32</index>
+						<name>Knee_R</name>
+						<parent>22</parent>
+						<position x="0" y="0" z="-0.45296" />
+						<rotation x="0.005872311" y="0.05411872" z="8.117452e-09" w="0.9985173" />
+						<scale x="1" y="1" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>33</index>
+						<name>Slot_Hip_R</name>
+						<parent>22</parent>
+						<position x="0" y="-0.046669" z="1.2e-05" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>34</index>
+						<name>KneePart1_R</name>
+						<parent>32</parent>
+						<position x="0" y="0" z="-0.204997" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>35</index>
+						<name>KneeEnd_R</name>
+						<parent>32</parent>
+						<position x="0.015146" y="0.000217" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>36</index>
+						<name>Ankle_R</name>
+						<parent>32</parent>
+						<position x="0" y="0" z="-0.456148" />
+						<rotation x="0.04861332" y="0.4312747" z="0.03800001" w="0.9001083" />
+						<scale x="1" y="0.9999999" z="1" />
+					</Item>
+					<Item>
+						<index>37</index>
+						<name>MiddleToe1_R</name>
+						<parent>36</parent>
+						<position x="0.136408" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>38</index>
+						<name>HipPart1_L</name>
+						<parent>23</parent>
+						<position x="0" y="0" z="-0.226" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>39</index>
+						<name>Knee_L</name>
+						<parent>23</parent>
+						<position x="0" y="0" z="-0.453" />
+						<rotation x="-0.005838674" y="0.05412329" z="-0.0006310818" w="0.998517" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>40</index>
+						<name>Slot_Hip_L</name>
+						<parent>23</parent>
+						<position x="0" y="0.047" z="0.000199" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>41</index>
+						<name>KneePart1_L</name>
+						<parent>39</parent>
+						<position x="0" y="0" z="-0.205" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>42</index>
+						<name>Ankle_L</name>
+						<parent>39</parent>
+						<position x="0" y="0" z="-0.456" />
+						<rotation x="-0.04861515" y="0.4312723" z="-0.03799792" w="0.9001094" />
+						<scale x="1" y="1" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>43</index>
+						<name>KneeEnd_L</name>
+						<parent>39</parent>
+						<position x="0.015146" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>44</index>
+						<name>MiddleToe1_L</name>
+						<parent>42</parent>
+						<position x="0.136" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>45</index>
+						<name>Phys_Skirt2_R</name>
+						<parent>26</parent>
+						<position x="0.012515" y="-0.053823" z="-0.079372" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>46</index>
+						<name>Phys_Skirt2_L</name>
+						<parent>27</parent>
+						<position x="0.013107" y="0.050065" z="-0.088599" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>47</index>
+						<name>Phys_Skirt_Back2_M</name>
+						<parent>28</parent>
+						<position x="-0.034284" y="0.011041" z="-0.134227" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>48</index>
+						<name>Phys_Skirt_BackUp2_M</name>
+						<parent>29</parent>
+						<position x="-0.069692" y="0" z="-0.110316" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>49</index>
+						<name>Phys_Skirt_Forward2_M</name>
+						<parent>30</parent>
+						<position x="0.029098" y="0.012549" z="-0.114826" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>50</index>
+						<name>BackB_M</name>
+						<parent>18</parent>
+						<position x="0" y="0" z="0.099635" />
+						<rotation x="0" y="-0.1045285" z="0" w="0.9945219" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>51</index>
+						<name>Phys_Bant1_R</name>
+						<parent>18</parent>
+						<position x="0.114475" y="-0.028645" z="0.039082" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>52</index>
+						<name>Phys_Bant1_L</name>
+						<parent>18</parent>
+						<position x="0.114474" y="0.028645" z="0.039082" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>53</index>
+						<name>Chest_M</name>
+						<parent>50</parent>
+						<position x="0" y="0" z="0.102917" />
+						<rotation x="0" y="-0.05582151" z="0" w="0.9984408" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>54</index>
+						<name>Slot_02_Chest_M</name>
+						<parent>50</parent>
+						<position x="0" y="-0.048" z="8.2e-05" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>55</index>
+						<name>Scapula_R</name>
+						<parent>53</parent>
+						<position x="0.001425" y="-0.025411" z="0.159175" />
+						<rotation x="0.1351421" y="0.131837" z="-0.02472868" w="0.9817047" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>56</index>
+						<name>Neck_M</name>
+						<parent>53</parent>
+						<position x="0" y="0" z="0.198141" />
+						<rotation x="0" y="0.2079117" z="0" w="0.9781476" />
+						<scale x="0.9999999" y="1" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>57</index>
+						<name>Scapula_L</name>
+						<parent>53</parent>
+						<position x="0.001425" y="0.025411" z="0.159175" />
+						<rotation x="-0.1351421" y="0.131837" z="0.02472868" w="0.9817047" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>58</index>
+						<name>Breast_R</name>
+						<parent>53</parent>
+						<position x="0.05" y="-0.04" z="0" />
+						<rotation x="-0.07163934" y="0.0213477" z="-0.2847798" w="0.9556739" />
+						<scale x="0.9999999" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>59</index>
+						<name>Breast_L</name>
+						<parent>53</parent>
+						<position x="0.05" y="0.04" z="0" />
+						<rotation x="0.0716394" y="0.02134778" z="0.2847807" w="0.9556736" />
+						<scale x="0.9999999" y="0.9999999" z="1" />
+					</Item>
+					<Item>
+						<index>60</index>
+						<name>Shoulder_R</name>
+						<parent>55</parent>
+						<position x="0" y="-0.099341" z="0" />
+						<rotation x="0.3921223" y="-0.01045765" z="-0.01297591" w="0.9197621" />
+						<scale x="1" y="0.9999999" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>61</index>
+						<name>ShoulderPart1_R</name>
+						<parent>60</parent>
+						<position x="0" y="-0.123738" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>62</index>
+						<name>Elbow_R</name>
+						<parent>60</parent>
+						<position x="0" y="-0.248147" z="0" />
+						<rotation x="-0.0144383" y="0.1568408" z="0.1257359" w="0.979481" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>63</index>
+						<name>Slot_Shoulder_R</name>
+						<parent>60</parent>
+						<position x="0" y="0" z="0.032223" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>64</index>
+						<name>ShoulderMuscle_R</name>
+						<parent>60</parent>
+						<position x="0.024943" y="-0.125" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>65</index>
+						<name>ElbowPart1_R</name>
+						<parent>62</parent>
+						<position x="0" y="-0.103955" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>66</index>
+						<name>ElbowEnd_R</name>
+						<parent>62</parent>
+						<position x="-0.002912" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>67</index>
+						<name>Wrist_R</name>
+						<parent>62</parent>
+						<position x="0" y="-0.22935" z="0" />
+						<rotation x="0.09639017" y="-0.1918462" z="-0.04145531" w="0.9757999" />
+						<scale x="1" y="0.9999999" z="1" />
+					</Item>
+					<Item>
+						<index>68</index>
+						<name>Slot_Hand_R</name>
+						<parent>67</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="-0.5" y="-0.5" z="-0.5" w="0.5" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>69</index>
+						<name>Cup_R</name>
+						<parent>67</parent>
+						<position x="-0.019937" y="-0.036829" z="0.007189" />
+						<rotation x="0.05928079" y="-0.03046457" z="-0.1503704" w="0.9863805" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>70</index>
+						<name>MiddleFinger1_R</name>
+						<parent>67</parent>
+						<position x="-0.003151" y="-0.081624" z="0.011713" />
+						<rotation x="0.04144578" y="-0.004818203" z="-0.1153749" w="0.9924453" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>71</index>
+						<name>IndexFinger1_R</name>
+						<parent>67</parent>
+						<position x="0.013077" y="-0.085912" z="0.004477" />
+						<rotation x="0.01714588" y="0.08588027" z="-0.03798557" w="0.9954334" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>72</index>
+						<name>ThumbFinger1_R</name>
+						<parent>67</parent>
+						<position x="0.02095" y="-0.014323" z="-0.02315" />
+						<rotation x="0.08465078" y="0.0174567" z="0.2012145" w="0.9757266" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>73</index>
+						<name>PinkyFinger1_R</name>
+						<parent>69</parent>
+						<position x="-0.011067" y="-0.031745" z="0.003841" />
+						<rotation x="0.03499035" y="-0.1324396" z="-0.07356782" w="0.9878377" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>74</index>
+						<name>RingFinger1_R</name>
+						<parent>69</parent>
+						<position x="0.010856" y="-0.035604" z="0.010978" />
+						<rotation x="0.05764196" y="-0.001481824" z="-0.02565613" w="0.9980065" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>75</index>
+						<name>PinkyFinger2_R</name>
+						<parent>73</parent>
+						<position x="0" y="-0.042373" z="0" />
+						<rotation x="0.09238911" y="-0.005749465" z="-0.06184414" w="0.993784" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>76</index>
+						<name>PinkyFinger3_R</name>
+						<parent>75</parent>
+						<position x="0" y="-0.023547" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>77</index>
+						<name>RingFinger2_R</name>
+						<parent>74</parent>
+						<position x="-0.00054" y="-0.045549" z="0" />
+						<rotation x="0.05510482" y="-0.00193867" z="-0.03510625" w="0.9978614" />
+						<scale x="1" y="0.9999999" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>78</index>
+						<name>RingFinger3_R</name>
+						<parent>77</parent>
+						<position x="0" y="-0.027282" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>79</index>
+						<name>MiddleFinger2_R</name>
+						<parent>70</parent>
+						<position x="-8.1e-05" y="-0.045396" z="-4.9e-05" />
+						<rotation x="0.1372402" y="-0.001568423" z="-0.01131941" w="0.990472" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>80</index>
+						<name>MiddleFinger3_R</name>
+						<parent>79</parent>
+						<position x="0" y="-0.033952" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>81</index>
+						<name>IndexFinger2_R</name>
+						<parent>71</parent>
+						<position x="0" y="-0.043093" z="0" />
+						<rotation x="0.08583158" y="0.0005447282" z="0.006322929" w="0.9962895" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>82</index>
+						<name>IndexFinger3_R</name>
+						<parent>81</parent>
+						<position x="0" y="-0.031454" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>83</index>
+						<name>ThumbFinger2_R</name>
+						<parent>72</parent>
+						<position x="0" y="-0.041083" z="0" />
+						<rotation x="-0.001360166" y="0.0001289089" z="-0.0943515" w="0.995538" />
+						<scale x="1" y="0.9999999" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>84</index>
+						<name>ThumbFinger3_R</name>
+						<parent>83</parent>
+						<position x="0" y="-0.042098" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>85</index>
+						<name>Head_M</name>
+						<parent>56</parent>
+						<position x="0" y="0" z="0.078111" />
+						<rotation x="0" y="0" z="-0.7071068" w="0.7071068" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>86</index>
+						<name>Phys_Stripe_1_M</name>
+						<parent>56</parent>
+						<position x="-0.025874" y="0.048067" z="0.014564" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>87</index>
+						<name>Phys_Stripe_2_M</name>
+						<parent>86</parent>
+						<position x="-0.071784" y="0.067908" z="-0.071144" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>88</index>
+						<name>Phys_Stripe_2b_M</name>
+						<parent>87</parent>
+						<position x="-0.057412" y="0.051696" z="-0.099681" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>89</index>
+						<name>Phys_Stripe_3_M</name>
+						<parent>88</parent>
+						<position x="-0.036143" y="0.024921" z="-0.105189" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>90</index>
+						<name>Phys_Stripe_3b_M</name>
+						<parent>89</parent>
+						<position x="-0.011512" y="-0.002012" z="-0.123555" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>91</index>
+						<name>Phys_Stripe_4_M</name>
+						<parent>90</parent>
+						<position x="0.010911" y="-0.010973" z="-0.140251" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>92</index>
+						<name>Phys_Stripe_4b_M</name>
+						<parent>91</parent>
+						<position x="0.016336" y="-0.007305" z="-0.148806" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>93</index>
+						<name>Phys_Stripe_5_M</name>
+						<parent>92</parent>
+						<position x="0.008331" y="-0.005502" z="-0.11626" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>94</index>
+						<name>Phys_Stripe_5b_M</name>
+						<parent>93</parent>
+						<position x="-0.006677" y="0.003286" z="-0.116861" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>95</index>
+						<name>Phys_Stripe_6_M</name>
+						<parent>94</parent>
+						<position x="-0.034669" y="0.02319" z="-0.15787" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>96</index>
+						<name>Phys_Stripe_6b_M</name>
+						<parent>95</parent>
+						<position x="-0.026287" y="0.017869" z="-0.049619" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>97</index>
+						<name>Shoulder_L</name>
+						<parent>57</parent>
+						<position x="0" y="0.099341" z="0" />
+						<rotation x="-0.3921231" y="-0.01045929" z="0.01297798" w="0.9197618" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>98</index>
+						<name>ShoulderPart1_L</name>
+						<parent>97</parent>
+						<position x="0" y="0.124" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>99</index>
+						<name>Elbow_L</name>
+						<parent>97</parent>
+						<position x="0" y="0.248147" z="0" />
+						<rotation x="0.01444003" y="0.1568389" z="-0.1257339" w="0.9794815" />
+						<scale x="0.9999999" y="0.9999999" z="1" />
+					</Item>
+					<Item>
+						<index>100</index>
+						<name>Slot_Shoulder_L</name>
+						<parent>97</parent>
+						<position x="0" y="0" z="0.032" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>101</index>
+						<name>ShoulderMuscle_L</name>
+						<parent>97</parent>
+						<position x="0.025" y="0.125" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>102</index>
+						<name>ElbowPart1_L</name>
+						<parent>99</parent>
+						<position x="0" y="0.103955" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>103</index>
+						<name>ElbowEnd_L</name>
+						<parent>99</parent>
+						<position x="-0.002911" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>104</index>
+						<name>Wrist_L</name>
+						<parent>99</parent>
+						<position x="0" y="0.22935" z="0" />
+						<rotation x="-0.09638906" y="-0.1918459" z="0.04145192" w="0.9758002" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>105</index>
+						<name>Slot_Hand_L</name>
+						<parent>104</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0.5" y="0.5" z="-0.5" w="0.5" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>106</index>
+						<name>ThumbFinger1_L</name>
+						<parent>104</parent>
+						<position x="0.020952" y="0.014323" z="-0.023018" />
+						<rotation x="-0.08465295" y="0.01745684" z="-0.201211" w="0.9757271" />
+						<scale x="1" y="1" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>107</index>
+						<name>IndexFinger1_L</name>
+						<parent>104</parent>
+						<position x="0.013079" y="0.085912" z="0.004475" />
+						<rotation x="-0.01714423" y="0.08587895" z="0.0379853" w="0.9954336" />
+						<scale x="0.9999999" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>108</index>
+						<name>MiddleFinger1_L</name>
+						<parent>104</parent>
+						<position x="-0.003938" y="0.081624" z="0.011712" />
+						<rotation x="-0.04144829" y="-0.004818459" z="0.115374" w="0.9924453" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>109</index>
+						<name>Cup_L</name>
+						<parent>104</parent>
+						<position x="-0.019935" y="0.036829" z="0.007189" />
+						<rotation x="-0.05928285" y="-0.0304632" z="0.1503704" w="0.9863804" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>110</index>
+						<name>ThumbFinger2_L</name>
+						<parent>106</parent>
+						<position x="0" y="0.041083" z="0" />
+						<rotation x="0.001363971" y="0.0001292695" z="0.09435149" w="0.995538" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>111</index>
+						<name>ThumbFinger3_L</name>
+						<parent>110</parent>
+						<position x="0" y="0.042098" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>112</index>
+						<name>IndexFinger2_L</name>
+						<parent>107</parent>
+						<position x="0" y="0.043093" z="0" />
+						<rotation x="-0.08583254" y="0.0005445523" z="-0.006320816" w="0.9962894" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>113</index>
+						<name>IndexFinger3_L</name>
+						<parent>112</parent>
+						<position x="0" y="0.031454" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>114</index>
+						<name>MiddleFinger2_L</name>
+						<parent>108</parent>
+						<position x="8.1e-05" y="0.045396" z="4.9e-05" />
+						<rotation x="-0.1372368" y="-0.001568947" z="0.01132348" w="0.9904723" />
+						<scale x="1" y="0.9999999" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>115</index>
+						<name>MiddleFinger3_L</name>
+						<parent>114</parent>
+						<position x="0" y="0.033982" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>116</index>
+						<name>PinkyFinger1_L</name>
+						<parent>109</parent>
+						<position x="-0.011067" y="0.031745" z="0.003841" />
+						<rotation x="-0.03499046" y="-0.1324387" z="0.07356746" w="0.9878378" />
+						<scale x="0.9999999" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>117</index>
+						<name>RingFinger1_L</name>
+						<parent>109</parent>
+						<position x="0.010855" y="0.035604" z="0.010978" />
+						<rotation x="-0.05764082" y="-0.001481694" z="0.02565439" w="0.9980066" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>118</index>
+						<name>PinkyFinger2_L</name>
+						<parent>116</parent>
+						<position x="0" y="0.042373" z="0" />
+						<rotation x="-0.09239172" y="-0.00574966" z="0.06184448" w="0.9937837" />
+						<scale x="1" y="1" z="0.9999999" />
+					</Item>
+					<Item>
+						<index>119</index>
+						<name>PinkyFinger3_L</name>
+						<parent>118</parent>
+						<position x="0" y="0.023543" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>120</index>
+						<name>RingFinger2_L</name>
+						<parent>117</parent>
+						<position x="0.00054" y="0.046" z="0" />
+						<rotation x="-0.05510778" y="-0.001938851" z="0.03510764" w="0.9978611" />
+						<scale x="0.9999999" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>121</index>
+						<name>RingFinger3_L</name>
+						<parent>120</parent>
+						<position x="0" y="0.027" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>122</index>
+						<name>BreastEnd_R</name>
+						<parent>58</parent>
+						<position x="0.037717" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>123</index>
+						<name>BreastEnd_L</name>
+						<parent>59</parent>
+						<position x="0.038275" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>124</index>
+						<name>Phys_Bant2_R</name>
+						<parent>51</parent>
+						<position x="0.029342" y="-0.025545" z="-0.066686" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>125</index>
+						<name>Phys_Bant3_R</name>
+						<parent>124</parent>
+						<position x="0.020222" y="-0.02112" z="-0.060272" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>126</index>
+						<name>Phys_Bant2_L</name>
+						<parent>52</parent>
+						<position x="0.029342" y="0.025545" z="-0.066685" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>127</index>
+						<name>Phys_Bant3_L</name>
+						<parent>126</parent>
+						<position x="0.020223" y="0.02112" z="-0.060274" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>128</index>
+						<name>Slot_01_Chest_M</name>
+						<parent>19</parent>
+						<position x="-0.048" y="0.047847" z="1.23692" />
+						<rotation x="0.05547896" y="-0.05547896" z="0.704927" w="0.704927" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>129</index>
+						<name>GUI</name>
+						<parent>2</parent>
+						<position x="0" y="0" z="2" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>130</index>
+						<name>AttackAngle_R</name>
+						<parent>2</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+					<Item>
+						<index>131</index>
+						<name>AttackAngle_L</name>
+						<parent>2</parent>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" w="1" />
+						<scale x="1" y="1" z="1" />
+					</Item>
+				</nodes>
+			</Item>
+		</lods>
+		<sourceFile href="/sources/Visual/Characters/Female/Skins/Armors/Ninja/Base.Skin.mb" crc="0x7CA52325" sha1="222b5c801e18faf7bf24eb3faaabfa0586406523" />
+	</client.Scene3D.Skeleton>
+</Body>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<client.Scene3D.SkeletalAnimation>
+		<Header>
+			<guid>1bdb54f5-2d60-47c3-9d8a-2730f6d4a140</guid>
+		</Header>
+		<aabb>
+			<center x="-0.09243926" y="-0.02155991" z="1" />
+			<extents x="-0.2203472" y="0.3049791" z="1" />
+		</aabb>
+		<binaryFile href="EmoteGreeting-SkeletalAnimation.bin" crc="0x9AA59977" sha1="c84e408b4943b67e0ef66fc6ed7bc8b06fb95a2a" />
+		<endFrame>76</endFrame>
+		<eventTracks />
+		<nodeNames>
+			<Item>Global</Item>
+			<Item>Root_M</Item>
+			<Item>Hip_R</Item>
+			<Item>HipPart1_R</Item>
+			<Item>Knee_R</Item>
+			<Item>KneePart1_R</Item>
+			<Item>KneeEnd_R</Item>
+			<Item>Ankle_R</Item>
+			<Item>MiddleToe1_R</Item>
+			<Item>Slot_Hip_R</Item>
+			<Item>Hip_L</Item>
+			<Item>HipPart1_L</Item>
+			<Item>Knee_L</Item>
+			<Item>KneePart1_L</Item>
+			<Item>Ankle_L</Item>
+			<Item>MiddleToe1_L</Item>
+			<Item>KneeEnd_L</Item>
+			<Item>Slot_Hip_L</Item>
+			<Item>BackA_M</Item>
+			<Item>BackB_M</Item>
+			<Item>Chest_M</Item>
+			<Item>Scapula_R</Item>
+			<Item>Shoulder_R</Item>
+			<Item>ShoulderPart1_R</Item>
+			<Item>Elbow_R</Item>
+			<Item>ElbowPart1_R</Item>
+			<Item>ElbowEnd_R</Item>
+			<Item>Wrist_R</Item>
+			<Item>Slot_Hand_R</Item>
+			<Item>Slot_Elbow_R</Item>
+			<Item>Slot_Shoulder_R</Item>
+			<Item>ShoulderMuscle_R</Item>
+			<Item>Neck_M</Item>
+			<Item>Head_M</Item>
+			<Item>Scapula_L</Item>
+			<Item>Shoulder_L</Item>
+			<Item>ShoulderPart1_L</Item>
+			<Item>Elbow_L</Item>
+			<Item>ElbowPart1_L</Item>
+			<Item>ElbowEnd_L</Item>
+			<Item>Wrist_L</Item>
+			<Item>Slot_Hand_L</Item>
+			<Item>Slot_Elbow_L</Item>
+			<Item>Slot_Shoulder_L</Item>
+			<Item>ShoulderMuscle_L</Item>
+			<Item>Breast_R</Item>
+			<Item>BreastEnd_R</Item>
+			<Item>Breast_L</Item>
+			<Item>BreastEnd_L</Item>
+			<Item>Slot_01_Chest_M</Item>
+			<Item>Slot_02_Chest_M</Item>
+			<Item>Slot_Ground</Item>
+			<Item>Slot_01_Root_M</Item>
+			<Item>Slot_02_Root_M</Item>
+			<Item>Trajectory</Item>
+			<Item>GUI</Item>
+			<Item>AttackAngle_R</Item>
+			<Item>AttackAngle_L</Item>
+			<Item>CamAnchor</Item>
+		</nodeNames>
+		<sourceFile href="/sources/Visual/Characters/Female/Animations/General/Emotes/EmoteGreeting.mb" crc="0x27C04642" sha1="722d4a7f662a70f54f49c2b857f3f4e4f4303e48" />
+		<startFrame>0</startFrame>
+		<trajectoryBone>54</trajectoryBone>
+	</client.Scene3D.SkeletalAnimation>
+</Body>

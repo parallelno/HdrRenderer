@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<client.Scene3D.Material>
+		<Header>
+			<guid>9ec522f0-0254-493a-b4eb-e1ccd8951473</guid>
+		</Header>
+		<Layers>
+			<Item>
+				<uuid>texture0</uuid>
+				<layer href="Tropical_Beach1K.hdr" />
+				<wrap>CLAMP</wrap>
+			</Item>
+		</Layers>
+		<ShaderFile href="Base.shader" />
+	</client.Scene3D.Material>
+</Body>

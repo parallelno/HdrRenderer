@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Body>
+	<mapLoader.VisualObject>
+		<Header>
+			<guid>403f9af9-814a-47ad-b2d9-1d03a772bd05</guid>
+		</Header>
+		<components>
+			<Item type="mapLoader.components.MeshComponent">
+				<animationUUID>ANIM</animationUUID>
+				<geometry href="Base.Skin-Geometry.xdb" />
+				<uuid>MESH</uuid>
+			</Item>
+			<Item type="mapLoader.components.AnimationSetComponent">
+				<sequences>
+					<Item>
+						<blendInTime>0.15</blendInTime>
+						<clip href="Visual/Model01/Animations/General/Movement/Run01-SkeletalAnimation.xdb" />
+						<clipID>Run</clipID>
+						<loopMode>NEXT</loopMode>
+						<randomStart>false</randomStart>
+						<speed>0.9</speed>
+						<start>0.1</start>
+					</Item>
+					<Item>
+						<blendInTime>0.05</blendInTime>
+						<clip href="Visual/Model01/Animations/General/Emotes/EmoteGreeting-SkeletalAnimation.xdb" />
+						<loopMode>NEXT</loopMode>
+						<randomStart>false</randomStart>
+						<speed>1.1</speed>
+						<start>0.05</start>
+					</Item>
+					<Item>
+						<blendInTime>0</blendInTime>
+						<clip href="Visual/Model01/Animations/General/Other/UseKeyboardSit-SkeletalAnimation.xdb" />
+					</Item>
+				</sequences>
+				<speed>0.99</speed>
+				<uuid>ANIM</uuid>
+			</Item>
+		</components>
+	</mapLoader.VisualObject>
+</Body>
